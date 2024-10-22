@@ -1,0 +1,5 @@
+#define all output files here
+*.png
+*.svg
+*.pdf
+*.xlsx
